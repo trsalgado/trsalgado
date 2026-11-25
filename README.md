@@ -13,7 +13,7 @@
 | Repository | What it is |
 |---|---|
 | [**AI Maturity Quick Scan**](https://github.com/trsalgado/quickassessmentAI) | 40 weighted questions across 5 dimensions, a market-band benchmark, an agent-readiness signal and an indicative value-at-stake model. The short version of my 100-question AI Enterprise Maturity Assessment. |
-| [**Observability Maturity Self-Assessment**](https://github.com/trsalgado/observability-maturity-selfassessment) | Observability, AIOps, FinOps and governance in one self-assessment, with level guide, radar and a quick TCO view. The free version of my 4-pillar, 60-question diagnostic used with enterprise clients. |
+| [**Observability Maturity Self-Assessment**](https://github.com/trsalgado/observability-maturity-selfassessment) | 26 dimensions across observability, AIOps, FinOps and governance, with level guide, radars and a quick TCO view. The free version of my 4-pillar, 60-question diagnostic used with enterprise clients. |
 
 ## AI in practice
 
@@ -24,6 +24,7 @@
 ## Credentials
 
 MBA, FGV · Business Executive Program, ESADE · IBGC board program · TOGAF · CGEIT · COBIT 2019 · ITIL Master · FinOps · DevOps Master
+
 Author of *Lidere ou Saia* (2026), a book on leading technology teams.
 
 Portuguese · English · Spanish · Italian — Brazilian & Portuguese citizen
